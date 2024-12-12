@@ -6,6 +6,13 @@
 
 ![](travelMapper.png)
 
+## Implementation
+
+- Initialized the project using **Vite with React** as the base framework
+- Implemented a responsive design with **Tailwind CSS**
+- Integrated **Leaflet.js** for interactive map functionality
+- Utilized Axios to fetch real-time data from the **Travel Advisor API**
+
 ## Getting started
 
 To run on your system, follow these steps:
@@ -20,7 +27,7 @@ To run on your system, follow these steps:
     cd profile-mapper
     ```
 
-3. Install the required dependencies:
+3. Install dependencies:
     ```sh
     npm install
     ```
